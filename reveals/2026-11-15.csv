@@ -1,0 +1,1 @@
+trade_id,timestamp,symbol,side,price,size,confidence,strategy,pnl_usd,pnl_pct,exit_reason,spread_pct,fee_pct
